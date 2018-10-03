@@ -14,6 +14,7 @@ kombu==4.2.1
 Markdown==2.6.11
 pbr==4.2.0
 psycopg2==2.7.4
+python-3.6.6
 pytz==2018.5
 requests==2.19.1
 six==1.11.0
